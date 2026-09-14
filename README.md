@@ -5,7 +5,7 @@
 <details>
   <summary>公開鍵を表示</summary>
   
-```
+```text
   
 -----BEGIN PGP PUBLIC KEY BLOCK-----
 
