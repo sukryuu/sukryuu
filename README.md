@@ -4,7 +4,7 @@
 ### PGP公開鍵
 <details>
   <summary>公開鍵を表示</summary>
-  ```
+  ```text
 -----BEGIN PGP PUBLIC KEY BLOCK-----
 
 mQINBGqoANEBEADiPM3qwuATLuWrxbz/rCOy8UcadRjGP6X232M0/1aP4aaT7h4s
@@ -58,4 +58,5 @@ oZCivVFNZyNXvEtNUMZMETtNgEkc7GwBuWy60/IvLyxzAdXFnjmcmDTnpim9jr6d
 lkUl
 =tGVv
 -----END PGP PUBLIC KEY BLOCK-----
+```
 </details>
