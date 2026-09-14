@@ -1,5 +1,5 @@
 ## Hi there 👋
-学生
+学生です。
 
 ### PGP公開鍵
 <details>
